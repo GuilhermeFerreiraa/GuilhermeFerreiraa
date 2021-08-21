@@ -1,4 +1,6 @@
-## Olá Eu sou o Guilherme Ferreira
+## E aí, tudo bem? me chamo Guilherme Ferreira
+
+#### Bem vindos ao meu GitHub!
 
  <div>
   <a href="https://github.com/guilherme1313">
@@ -26,11 +28,15 @@
   <a href="https://www.linkedin.com/in/guilherme-ferreira-04b4b619a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
   
+ ##
+ #### Minha frase para a vida: " Com grandes poderes vêm grandes responsabilidades. "
   
 
   ##
-  
+
+
 - 🔭 Hoje eu trabalho com front-end
 - 🌱 Estudando React.js
+- 👨‍💻 1º Semestre em Análise e Desenvolvimento de Sistemas 
 - 😄 Pronouns: ele/dele
 
