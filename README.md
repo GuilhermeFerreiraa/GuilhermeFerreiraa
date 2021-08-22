@@ -29,7 +29,7 @@
  </div>
   
  ##
- #### Minha frase para a vida: " Com grandes poderes vêm grandes responsabilidades. "
+ #### " Com grandes poderes vêm grandes responsabilidades. "
   
 
   ##
