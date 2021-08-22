@@ -40,5 +40,4 @@
 - 🔭 Hoje eu trabalho com front-end
 - 🌱 Estudando React.js
 - 👨‍💻 1º Semestre em Análise e Desenvolvimento de Sistemas 
-- 😄 Pronouns: ele/dele
 
