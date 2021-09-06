@@ -31,8 +31,6 @@
 
   ##
  
- 
-![Snake animation](https://github.com/guilherme1313/guilherme1313/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 Hoje eu trabalho com front-end
 - 🌱 Estudando React.js
