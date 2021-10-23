@@ -1,6 +1,6 @@
-## E aí, tudo bem? me chamo Guilherme Ferreira
+## Hey There, I'm Guilherme Ferreira
 
-#### Bem vindos ao meu GitHub!
+#### Welcome to my GitHub!
 
  <div>
   <a href="https://github.com/rafaballerini">
@@ -26,13 +26,13 @@
  </div>
   
  ##
- #### " Com grandes poderes vêm grandes responsabilidades. "
+ #### " With great powers assignments great responsibilities. "
   
 
   ##
  
 
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudando React.js
-- 👨‍💻 1º Semestre em Análise e Desenvolvimento de Sistemas 
+- 🔭 I currently work and study with front-end;
+- 🌱 Studying React.js;
+- 👨‍💻 1º Semester in Systems Analysis and Development;
 
