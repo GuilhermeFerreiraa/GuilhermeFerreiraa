@@ -33,6 +33,6 @@
  
 
 - 🔭 I currently work and study with front-end;
-- 🌱 Studying React.js;
+- 🌱 Studying React.js & React Native;
 - 👨‍💻 1º Semester in Systems Analysis and Development;
 
