@@ -83,7 +83,7 @@
 
 
 
-<h3> UI/UX Designer </h3>
+<h3> UI/UX Design </h3>
 
 
 <img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
@@ -98,14 +98,9 @@
 
 <img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
 
-
-
-
 <hr>
 
-
-
-<h3> Desenvolvimento Mobile </h3>  
+<h3> Mobile </h3>  
 
 <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
@@ -127,16 +122,13 @@
                                                                                                                
 <hr>
 
-<h3> Banco de Dados </h3> 
+<h3> Database </h3> 
 
 <img align="center" alt="Js" height="30" width="40" src="https://camo.githubusercontent.com/644b7c04356f7e17ee98274b9a7d59af01e06bc988e4c311c8259df425d13c18/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39372f53716c6974652d7371756172652d69636f6e2e737667"> 
 
 <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
 
 <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> 
-
-<!-- Contador de visitas -->
-
 
 
 </div>
