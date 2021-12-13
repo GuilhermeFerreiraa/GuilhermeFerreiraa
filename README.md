@@ -120,11 +120,11 @@
 
 <img align="center" alt="netbeans" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
+<img align="center" alt="netbeans" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+  
 <img align="center" alt="netbeans" height="30" width="40" src="https://netbeans.apache.org/images/apache-netbeans.svg">
 
-<img align="center" alt="netbeans" height="30" width="40" src="https://netbeans.apache.org/images/apache-netbeans.svg">
-
-<img align="center" alt="netbeans" height="30" width="40" src="https://netbeans.apache.org/images/apache-netbeans.svg">                                                                                                                      
+                                                                                                               
 <hr>
 
 <h3> Banco de Dados </h3> 
