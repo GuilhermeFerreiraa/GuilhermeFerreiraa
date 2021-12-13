@@ -82,6 +82,14 @@
 <hr>
 
 
+<h3> Mobile </h3>  
+
+<img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+
+
+<hr>
 
 <h3> UI/UX Design </h3>
 
@@ -100,14 +108,6 @@
 
 <hr>
 
-<h3> Mobile </h3>  
-
-<img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-
-<hr>
-
 
 <h3> IDE </h3>  
 
@@ -116,10 +116,10 @@
 <img align="center" alt="netbeans" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
 <img align="center" alt="netbeans" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-  
+
 <img align="center" alt="netbeans" height="30" width="40" src="https://netbeans.apache.org/images/apache-netbeans.svg">
 
-                                                                                                               
+
 <hr>
 
 <h3> Database </h3> 
