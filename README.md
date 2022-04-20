@@ -32,7 +32,7 @@
 
 - 🌱 I'm studying new Technologies like: React Js e TypeScript
 
-- 🤞 In career transition and looking for his first opportunity as a developer✨✨✨
+- 🤞 I'm Developer Front-End on ITM Marketing Channel
 
 <br>
 
