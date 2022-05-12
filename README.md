@@ -32,7 +32,7 @@
 
 - 🌱 I'm studying new Technologies like: React Js e TypeScript
 
-- 🤞 I'm Developer Front-End on ITM Marketing Channel
+- 🤞 I'm Developer Front-End on MetaLife Pilates
 
 <br>
 
