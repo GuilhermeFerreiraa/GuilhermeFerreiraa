@@ -27,12 +27,7 @@
 
 ##
 
-
-- 🔭 Currently I work as Developer Front-End
-
-- 🌱 I'm studying new Technologies like: React Js e TypeScript
-
-- 🤞 I'm Developer Front-End on MetaLife Pilates
+- 🔭 Currently I work as Developer Front-End in MetaLife (using React & TS)
 
 <br>
 
