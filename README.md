@@ -1,6 +1,4 @@
-## Welcome to my GitHub!
-
-### Hey There, I'm Guilherme Ferreira
+## Hey There, I'm Guilherme Ferreira
 
 <!-- <div>
 <a href="https://github.com/GuilhermeFerreiraa">
