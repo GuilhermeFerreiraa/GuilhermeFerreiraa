@@ -11,11 +11,8 @@
 </div>
 
 #### " With great powers assignments great responsibilities. "
-
-
-##
-
-- 🔭 Currently I work as Developer Front-End in MetaLife (using React & TS)
+- Currently I work as Developer Front-End
+- Refactoring the code and I each day.
 
 <br>
 
