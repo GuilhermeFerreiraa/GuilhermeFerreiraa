@@ -13,6 +13,7 @@
 #### " With great powers assignments great responsibilities. "
 - Currently I work as Developer Front-End
 - Refactoring the code and I each day.
+- Objective: To be a Front-end Specialist
 
 <br>
 
