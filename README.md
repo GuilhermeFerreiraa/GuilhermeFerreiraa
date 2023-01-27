@@ -11,7 +11,7 @@
 </div>
 
 - Currently I work as Developer Front-End
-- Refactoring code and I each day.
+- Refactoring code..👨🏻‍💻
 - Objective: To be a Front-end Specialist
 
 #### " With great powers assignments great responsibilities. " - Spider-Man
