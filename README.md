@@ -10,15 +10,15 @@
 <img align="right" alt="Gui" height="170" width="170" src="https://img.wattpad.com/106e8b7df28260282632dd0f145551887f52b939/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f416c55644563494a5a7777476c673d3d2d3933333437363631312e313632393266363537326230353039323635313435333431303234362e676966">
 </div>
 
-- Currently I work as Developer Front-End
-- Refactoring code..👨🏻‍💻
-- Objective: To be a Front-end Specialist
+- Working as Front-End Developer
+- I'm passionate for UI and Ux 
+- Always keep pushing myself to be greatest I can
 
 #### " With great powers assignments great responsibilities. " - Spider-Man
 <br>
 
 
-## Little info about my knowledge
+## Little infos about my Skills
 
 <div style="display: inline_block">
 
@@ -31,11 +31,15 @@
 
 <img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   
-<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">         
+<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">     
+
+<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">     
   
 <img align="center" alt="Gui-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">  
   
 <img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+
+<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">         
   
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
@@ -76,14 +80,31 @@
   
 <img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
   
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">     
+<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
 
+<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"> 
+
+<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
+
+<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
+
+          
 <hr>
 
 
 <h3> Mobile </h3>  
 
 <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
+          
+
+<hr>
+
+<h3> Testes </h3>  
+
+<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+         
 
 <hr>
 
@@ -112,8 +133,6 @@
 <img align="center" alt="netbeans" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
 
 <img align="center" alt="netbeans" height="30" width="40" src="https://netbeans.apache.org/images/apache-netbeans.svg">
-
-<img align="center" alt="netbeans" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
     
 <img align="center" alt="netbeans" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
  
