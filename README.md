@@ -64,6 +64,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/guilhermeferreiraborba)](https://linkedin.com/in/guilhermeferreiraborba)
 [![Outlook Badge](https://img.shields.io/badge/-gui.2001@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:gui.2001@hotmail.com)](mailto:gui.2001@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/guilhermeferreiraa?label=follow&style=social)](https://github.com/guilhermferreiraa)
+[![GitHub](https://img.shields.io/github/followers/guilhermeferreiraa?label=follow&style=social)](https://github.com/guilhermeferreiraa)
           
 
