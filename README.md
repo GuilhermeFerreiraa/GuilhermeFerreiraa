@@ -1,173 +1,69 @@
-## Hey There, I'm Guilherme Ferreira
+## 👋🏼 E ae, beleza?
 
-<!-- <div>
+
+- 🔎 Explorando novas tecnologias e desenvolvendo soluções de software desde 2019.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 💼 Trabalhando como Desenvolvedor Freelancer Fullstack.
+- 🌱 Aprendendo mais sobre NodeJS.
+
+<div>
 <a href="https://github.com/GuilhermeFerreiraa">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFerreiraa&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFerreiraa&layout=compact&langs_count=7&theme=monokai"/>
-</div>
--->
-
-<img align="right" alt="Gui" height="170" width="170" src="https://img.wattpad.com/106e8b7df28260282632dd0f145551887f52b939/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f416c55644563494a5a7777476c673d3d2d3933333437363631312e313632393266363537326230353039323635313435333431303234362e676966">
+<img height="200em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeferreiraa&theme=dark&hide_border=false" alt="Github Stats" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeferreiraa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-- Working as Front-End Developer
-- I'm passionate for UI and Ux 
-- Always keep pushing myself to be greatest I can
+![](https://komarev.com/ghpvc/?username=guilhermeferreiraa&color=006bed)
 
-#### " With great powers assignments great responsibilities. " - Spider-Man
-<br>
+## Minhas Skills
 
+**Aplicações e dados**
 
-## Little infos about my Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![NodeJS](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=nodejs)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Nexjs](https://img.shields.io/badge/-Nexjs-333333?style=flat&logo=nexjs)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS&logoColor=1572B6)
 
-<div style="display: inline_block">
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
-<h3> Front-End </h3>
+**Utilidades**
 
-<img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-          
-<img align="center" alt="Gui-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  
-<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">     
+**DevOps**
 
-<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">     
-  
-<img align="center" alt="Gui-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">  
-  
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+![AppStore](https://img.shields.io/badge/-AppStore-333333?style=flat&logo=appstore)
+![GooglePlay](https://img.shields.io/badge/-GooglePlay-333333?style=flat&logo=googleplay)
 
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">         
-  
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+**Ferramentas de desenvolvimento**
 
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
+## Onde me encontrar
 
-<img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
-
-<img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
-
-<img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-
-<img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  
-<img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg">
-          
-<img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg">
-          
-  
-<hr>
-
-<h3> Back-End </h3>
- 
-<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg">    
-  
-<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  
- <img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"> 
-  
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
-  
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
-
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"> 
-
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
-
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
-
-          
-<hr>
-
-
-<h3> Mobile </h3>  
-
-<img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
-          
-
-<hr>
-
-<h3> Testes </h3>  
-
-<img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-         
-
-<hr>
-
-<h3> UI/UX Design </h3>
-
-
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-
-<img align="center" alt="protoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-
-<img align="center" alt="adobe xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/xd/xd-plain.svg">
-
-<img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-
-<img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-
-<hr>
-
-
-<h3> IDE </h3>  
-
-<img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
-
-<img align="center" alt="netbeans" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-<img align="center" alt="netbeans" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-
-<img align="center" alt="netbeans" height="30" width="40" src="https://netbeans.apache.org/images/apache-netbeans.svg">
-    
-<img align="center" alt="netbeans" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
- 
-<hr>
-
-<h3> Database </h3> 
-
-<img align="center" alt="Js" height="30" width="40" src="https://camo.githubusercontent.com/644b7c04356f7e17ee98274b9a7d59af01e06bc988e4c311c8259df425d13c18/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39372f53716c6974652d7371756172652d69636f6e2e737667"> 
-
-<img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-
-<img align="center" alt="Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" > 
-          
-<hr>
-
-<h3> Operational System </h3> 
-
-<img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-
-<img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-  
-<img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-  
-<hr>
-
-<h3> Servers </h3> 
-
-<img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
-
-<img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
-  
-<img height="40" align="center" src="https://img.icons8.com/color/144/null/amazon-web-services.png"/>
-          
-
-
-</div>
+[![Linkedin](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/guilhermeferreiraborba)](https://linkedin.com/in/guilhermeferreiraborba)
+[![Outlook Badge](https://img.shields.io/badge/-gui.2001@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:gui.2001@hotmail.com)](mailto:gui.2001@hotmail.com)
+[![GitHub](https://img.shields.io/github/followers/guilhermeferreiraa?label=follow&style=social)](https://github.com/guilhermferreiraa)
           
 
