@@ -8,7 +8,7 @@
 
 <div>
 <a href="https://github.com/GuilhermeFerreiraa">
-<img height="200em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeferreiraa&theme=dark&hide_border=false" alt="Github Stats" />
+<!-- <img height="200em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeferreiraa&theme=dark&hide_border=false" alt="Github Stats" /> -->
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeferreiraa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
