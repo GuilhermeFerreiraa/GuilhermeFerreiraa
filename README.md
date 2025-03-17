@@ -1,10 +1,10 @@
-## 👋🏼 E ae, beleza?
+## 👋🏼 Hello!
 
 
-- 🔎 Explorando novas tecnologias e desenvolvendo soluções de software desde 2019.
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 💼 Trabalhando como Desenvolvedor Freelancer Fullstack.
-- 🌱 Aprendendo mais sobre NodeJS.
+- 🔎 Exploring new technologies and developing software solutions since 2019.
+- 🎓 Graduated in Systems Analysis and Development.
+- 💼 Working as a Fullstack Freelance Developer.
+- 🌱 Learning more about NodeJS.
 
 <div>
 <a href="https://github.com/GuilhermeFerreiraa">
@@ -14,9 +14,9 @@
 
 ![](https://komarev.com/ghpvc/?username=guilhermeferreiraa&color=006bed)
 
-## Minhas Skills
+## My Skills
 
-**Aplicações e dados**
+**Applications & Data**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
@@ -37,7 +37,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
-**Utilidades**
+**Utilities**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -52,7 +52,7 @@
 ![AppStore](https://img.shields.io/badge/-AppStore-333333?style=flat&logo=appstore)
 ![GooglePlay](https://img.shields.io/badge/-GooglePlay-333333?style=flat&logo=googleplay)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -60,7 +60,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-## Onde me encontrar
+## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/guilhermeferreiraborba)](https://linkedin.com/in/guilhermeferreiraborba)
 [![Outlook Badge](https://img.shields.io/badge/-gui.2001@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:gui.2001@hotmail.com)](mailto:gui.2001@hotmail.com)
